@@ -3,8 +3,8 @@
 In this repository are available all the material prepared for the internal course at the Eurac research.
 The course is split in two main parts:
 * Introduction to basic programming concepts. The course use Python as an introductory language, but the basic concepts can be applied in other languages too. The content of the material and of the course cover:
-    * basic data types (integer, float, complex, boolean, string, bytes)
-    * basic data structures (tuple, list, set, dictionary)
+    * numerical, boolean and string data types (integer, float, complex, boolean, string)
+    * sequential, set and mapping data types (list, tuple, set, dictionary)
     * control flow (if/elif/else, for- and while-loops)
     * define a function
 * Basic concepts of the Python programming language, the course covers:
