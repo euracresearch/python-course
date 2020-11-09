@@ -174,3 +174,15 @@ def mastermind(length=4, show=False, validset=None):
     print("Congratulations, you won!")
     
 mastermind()
+
+
+# -----------------------------------------------------------------
+
+def percent(total, step, fill='#', empty='-', barsize=30):
+    total -= 1
+
+    def printpercent(i):
+        rest = i / total
+        ifill = int(rest * barsize)
+        print(f"\r[{fill * ifill}{empty * (barsize - ifill)}] {int(rest * 100.):3d}%", end='', flush=True)
+    return printpercent
