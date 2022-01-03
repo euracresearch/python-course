@@ -23,4 +23,5 @@ If you want to start without installing anything on your computer you can:
 ## Authors
 
 Pietro Zambelli, data scientist @ Eurac research
+
 Aaron Estrada, data and computer scientist @ Eurac research
